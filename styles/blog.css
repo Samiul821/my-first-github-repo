@@ -57,3 +57,18 @@ button{
     background-color: antiquewhite;
     color: black;
 }
+.div4{
+    width: 500px;
+    height: 300px;
+    background-color: #c7ecee;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+    align-items: center;
+    padding: 10px;
+}
+iframe{
+    border-radius: 5px;
+    border: 2px solid rgb(5, 46, 228);
+    /* box-shadow: 5px 5px 5px wheat;*/
+}
